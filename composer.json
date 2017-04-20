@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tinify/tinify": "*",
+        "stichoza/google-translate-php": "~3.2"
+    }
+}
